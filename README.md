@@ -69,7 +69,6 @@ This log tracks my learning in weekly blocks, highlighting concepts explored and
 - Wrapper classes: autoboxing & unboxing
 
 🧰 Tools Used
-
 - Java JDK 25
 - IntelliJ IDEA (Primary IDE)
 - VS Code (for quick edits)
@@ -100,8 +99,7 @@ Each branch holds the complete code & exercises for that specific topic.
 - Mini projects
 
 💬 Connect
-📌 GitHub: @code-rachit18
-📌 LinkedIn (optional): add your link if needed
-📌 GitHub: @code-rachit18
-
-📌 LinkedIn (optional): add your link if needed
+- 📌 GitHub: @code-rachit18
+- 📌 LinkedIn (optional): add your link if needed
+- 📌 GitHub: @code-rachit18
+- 📌 LinkedIn (optional): add your link if needed
