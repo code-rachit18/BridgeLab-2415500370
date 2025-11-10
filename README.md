@@ -1,46 +1,57 @@
----
-title: "Java Practice Problems"
-output: github_document
----
+📘 Java Learning & Practice Repository
 
-# Java Practice Problems
+This repository contains my ongoing Java learning journey.
+All concepts, exercises, and topic-wise programs are organized across dedicated branches, allowing clean separation and easy navigation.
 
-This repository contains Java programs that solve basic programming exercises.  
-The problems are divided into **Assisted Problems** (guided examples) and **Self Problems** (practice exercises).  
-Each problem is implemented as a **separate Java file** for better readability and testing.
+📁 Repository Structure
 
-## ⚙️ How to Run
+This repo is organized branch-wise.
+Each branch contains practice code for a specific Java concept or module.
 
-### 1. Compile the Java File
-Navigate to the folder where your `.java` file is stored and run:
-```sh
-javac FileName.java
-```
+Current Branches
 
-### 2. Run the Compiled Program
-```sh
-java FileName
-```
+core-java
 
-**Example:**
-```sh
-javac AddTwoNumbers.java
-java AddTwoNumbers
-```
+OOPs-java
 
-## 🛠 Requirements
-- **Java JDK 8+**  
-- Any IDE such as IntelliJ IDEA, Eclipse, or VS Code with Java extension  
-- Terminal/Command Prompt for running programs
+Functional-interface
 
-## 📚 Learning Goals
-- Basic Java syntax  
-- User input handling with `Scanner`  
-- Arithmetic operations and formulas  
-- Using Java's `Math` library functions  
-- Writing modular, single-purpose programs
+Lambda-expression
 
-## 🚀 Next Steps
-- Combine all problems into **one menu-driven application**  
-- Add **unit tests** for automated checking  
-- Refactor into **object-oriented** versions
+Packages-in-java
+
+Wrapper-class
+
+errors_exception
+
+✅ How to Navigate
+
+To explore a particular topic:
+
+git checkout <branch-name>
+
+
+Example:
+
+git checkout OOPs-java
+
+🎯 Purpose of This Repository
+
+Practice and strengthen Java fundamentals
+
+Keep all topic-wise work organized
+
+Track progress over time
+
+Build a reference collection for future projects/interviews
+
+Add more Java topics gradually
+
+📌 Future Updates
+
+More Java modules will be added as new topics are learned and practiced.
+Each new topic will have its own branch with dedicated exercises.
+
+💬 Connect
+
+GitHub: @code-rachit18
